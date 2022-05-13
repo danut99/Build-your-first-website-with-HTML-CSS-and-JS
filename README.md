@@ -8,6 +8,8 @@
 7. When you click on add member a new avatar is added using javascript to the existing list of members
 8. When you press the theme change button the background of the page must toggle between white / black
 
+# The images for the project can be found in the img folder after the boilerplate is downloaded
+
 # What the page should look like
  White background
 ![image](https://user-images.githubusercontent.com/69467324/168244968-633e375a-16bb-4d4a-99fb-ccf91dcaf6d3.png)
