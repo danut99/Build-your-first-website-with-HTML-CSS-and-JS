@@ -12,7 +12,7 @@
 
 # What the page should look like
  White background
-![image](https://user-images.githubusercontent.com/69467324/168244968-633e375a-16bb-4d4a-99fb-ccf91dcaf6d3.png)
+![image](https://user-images.githubusercontent.com/69467324/169804235-56cbb58f-2d11-4af2-8946-c9a2798bd1fd.png)
 
  Black background
-![image](https://user-images.githubusercontent.com/69467324/168245168-fcfea9ce-ef45-46bc-b1af-d5d855a626f6.png)
+![image](https://user-images.githubusercontent.com/69467324/169804298-1cce9130-1cc5-4723-a736-9a83455da0c4.png)
